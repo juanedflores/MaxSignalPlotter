@@ -9,6 +9,7 @@ You can:
   - Specify the y-axis values.
   - Compare two channels.
   - Change the line and point type of the plot~ object.
+  - Show signal vector borders.
 
 <img src="./media/cycle.png" width="400" />
 <img src="./media/curve.png" width="400" />
@@ -17,3 +18,4 @@ You can:
 <img src="./media/delay.png" width="400" />
 <img src="./media/compare.png" width="400" />
 <img src="./media/linetype.png" width="400" />
+<img src="./media/vectors.png" width="400" />
