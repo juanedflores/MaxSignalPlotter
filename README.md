@@ -8,8 +8,8 @@ You can:
   - Specify the ms you want to plot.
   - Specify the y-axis values.
 
-![400|cycle](./media/cycle.png)
-![400|curve](./media/curve.png)
-![400|noise](./media/noise.png)
-![400|click](./media/click.png)
-![400|delay](./media/delay.png)
+![cycle](./media/cycle.png | width=200)
+![curve](./media/curve.png | width=200)
+![noise](./media/noise.png | width=200)
+![click](./media/click.png | width=200)
+![delay](./media/delay.png | width=200)
