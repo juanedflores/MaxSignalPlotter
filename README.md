@@ -8,6 +8,7 @@ You can:
   - Specify the amount of milliseconds that you want to plot.
   - Specify the y-axis values.
   - Compare two channels.
+  - Change the line and point type of the plot~ object.
 
 <img src="./media/cycle.png" width="400" />
 <img src="./media/curve.png" width="400" />
