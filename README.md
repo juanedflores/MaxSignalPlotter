@@ -20,9 +20,9 @@ You can use this to analyze a snapshot of a signal.
 You can:
   - Specify the amount of milliseconds that you want to plot.
   - Specify the y-axis values.
-  - Compare two channels.
+  - ~Compare two channels.~ (**Now 4!**)
   - Change the line and point type of the plot~ object.
-  - Show signal vector borders.
+  - ~Show signal vector borders.~ (Removed this features until I can justify its use)
 
 
 
