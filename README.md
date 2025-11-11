@@ -1,5 +1,7 @@
 # Max Signal Plotter
 
+<img src="./media/header.png" width="800" />
+
 ## UPDATE:
 
 This tool now has new features:
