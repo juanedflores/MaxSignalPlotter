@@ -1,6 +1,6 @@
 # Max Signal Plotter
 
-<img src="./media/header.png" width="800" />
+<img src="./media/v3.png" width="600" />
 
 ## UPDATE:
 
