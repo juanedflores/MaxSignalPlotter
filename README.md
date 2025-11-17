@@ -1,5 +1,7 @@
 # Max Signal Plotter
 
+This is a max patch that I load in a bpatcher object. It is a result of too many hours trying to learn gen~ while reading Graham Wakefield's & Gregory Taylor's GENERATING SOUND & ORGANIZING TIME book. At first it was just a plot~ object that I could change the y range at ease, then I just added more features. Perhaps too much.
+
 <img src="./media/v4.png" width="600" />
 
 ## UPDATE:
