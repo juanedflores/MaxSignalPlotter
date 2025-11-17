@@ -2,15 +2,25 @@
 
 This is a max patch that I load in a bpatcher object. It is a result of too many hours trying to learn gen~ while reading Graham Wakefield's & Gregory Taylor's GENERATING SOUND & ORGANIZING TIME book. At first it was just a plot~ object that I could change the y range at ease, then I just added more features. Perhaps too much.
 
+## V4 update
+
 <img src="./media/v4.png" width="600" />
 
-## UPDATE:
+Now has some sliders that play the recorded samples of a given range of the ch buffers. Also added a jit.matrix that draws the path of two channels summed up. I made this while trying to understand phase modulation.
+
+## V3 Update
+
+<img src="./media/v3.png" width="600" />
+
+Now has a waveform~ object to see a longer strip of recorded sound.
+
+## V2 update:
 
 This tool now has new features:
 
 - 4 Channels
 - 3 Different Modes: Sample Window Capture, Buffers, and Live Audio
-- Inspecting a single point in a 44 window capture and seeing them in a cell block.
+- Inspecting a single point in a 44 sample window capture and seeing them in a cell block.
 
 <img src="./media/v2_window.png" width="400" />
 <img src="./media/v2_buffers.png" width="400" />
